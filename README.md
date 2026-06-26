@@ -30,6 +30,7 @@
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
 
 </div>
+<p align="center"><img src="demo.svg" alt="Live paid call on CROO" width="700"/></p>
 
 ---
 
